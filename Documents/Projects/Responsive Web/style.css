@@ -1,0 +1,17 @@
+
+.maincontainer {
+    color: #d9d9d9;
+  display: flex;
+  align-items: center; /* keeps them aligned vertically */
+  gap: 10px; /* space between image and text */
+
+}
+.photoPixel {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.secondText {
+  display: inline-block;
+  vertical-align: middle;
+}
