@@ -7,6 +7,15 @@ body {
   justify-content: center; 
 
 }
+.textImage {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+}
+.img1,.img2,.img3 {
+  border-radius: 20%;
+}
 .container {
   background-color: #F8FAFC;
   padding: 25px;
